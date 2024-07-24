@@ -8,6 +8,8 @@ Build: Unity2019.4.11
 
 Unity Editor->File->Build Settings->Add Open Scenes->Build->Run .exe
 
+This project is too large to upload. Resouces and Libraries are deleted.
+
 ### Hardware
 
 - **Operating System**: Windows 10
