@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0_Main.unity
+    guid: 246162f56b7b81b4d808b5c5f125f8cb
+  - enabled: 1
+    path: Assets/Scenes/1_MainRoom.unity
+    guid: 032a69408008d4b42b13539066166ab8
+  - enabled: 1
+    path: Assets/Scenes/2.1_Star.unity
+    guid: f3b0ec10e5c00e84d88818b3269bccc9
+  - enabled: 1
+    path: Assets/Scenes/2.2_Sea.unity
+    guid: b2ecb2b4515e91a478dd20fe2ceacc85
+  - enabled: 1
+    path: Assets/Scenes/2.3_Classroom.unity
+    guid: b8f3c93eddcd254468f63b1c0f3e61ed
+  - enabled: 1
+    path: Assets/Scenes/2.4_SnowMountain.unity
+    guid: e7b55c38fdcad174987b0597c69cc16a
+  - enabled: 1
+    path: Assets/Scenes/2.5_Scut.unity
+    guid: 8f73b997cb409a24d9afd099ad2d4df7
+  - enabled: 1
+    path: Assets/Scenes/2.6_Rome.unity
+    guid: c3086f08572f68d4291216b9ae7c8464
+  - enabled: 1
+    path: Assets/Scenes/2.7_Paris.unity
+    guid: 4843662cf41f4d242bbb4883a2ba044c
+  - enabled: 1
+    path: Assets/Scenes/2.8_Sunset.unity
+    guid: f40a0815603a0984ea76dd9426d6d8bf
+  - enabled: 1
+    path: Assets/Scenes/3_MusicRoom.unity
+    guid: 5b6a0fab32681b741bc259f069840811
+  - enabled: 1
+    path: Assets/Scenes/4_Canteen.unity
+    guid: 82055759535c55549bbd4da18c670990
+  - enabled: 1
+    path: Assets/Scenes/5_BasketballCourt.unity
+    guid: 6e7ea86947daf4c479686e4a43f1757f
+  m_configObjects: {}
