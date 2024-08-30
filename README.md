@@ -8,7 +8,7 @@ Build: Unity2019.4.11
 
 Unity Editor->File->Build Settings->Add Open Scenes->Build->Run .exe
 
-This project is too large to upload. Resouces and Libraries are deleted.
+Resouces and Libraries are too large to upload to GitHub.
 
 ### Hardware
 
