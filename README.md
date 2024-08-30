@@ -1,5 +1,7 @@
 # VR System for University Societies
 
+(The project was completed in 2022)
+
 ## Environment and Tools
 
 Video Link: https://drive.google.com/file/d/1de9_E7s38W3wW78QjCJET4J-jrLs3wpf/view?usp=drive_link
