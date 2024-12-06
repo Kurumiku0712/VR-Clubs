@@ -1,6 +1,6 @@
 # VR System for University Societies
 
-(This is a graduation project completed in South China University of Technology)
+(This is a graduation project completed at South China University of Technology)
 
 ## Environment and Tools
 
