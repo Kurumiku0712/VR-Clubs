@@ -1,6 +1,6 @@
 # VR System for University Societies
 
-(The project was completed in 2022)
+(This is a graduation project completed in SCUT)
 
 ## Environment and Tools
 
