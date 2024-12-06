@@ -1,6 +1,6 @@
 # VR System for University Societies
 
-(This is a graduation project completed in SCUT)
+(This is a graduation project completed in South China University of Technology)
 
 ## Environment and Tools
 
