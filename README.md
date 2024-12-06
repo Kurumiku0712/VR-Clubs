@@ -6,6 +6,8 @@
 
 Video Link: https://drive.google.com/file/d/1de9_E7s38W3wW78QjCJET4J-jrLs3wpf/view?usp=drive_link
 
+File Link: https://docs.google.com/document/d/1Ci4qybMZv_5GPIcMy-rJlQXRxdqsiQI1/edit?usp=sharing&ouid=101368138502748597974&rtpof=true&sd=true
+
 Build: Unity2019.4.11  
 
 Unity Editor->File->Build Settings->Add Open Scenes->Build->Run .exe
