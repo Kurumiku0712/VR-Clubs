@@ -65,13 +65,4 @@ HTC Vive is a VR headset developed by HTC and Valve. It includes a head-mounted 
 ### VR Environment Setup
 Setting up the VR environment involves configuring HTC Vive hardware and software. The software setup includes using SteamVR SDK for device management and VRTK for implementing VR interactions. The combination of Unity, SteamVR, and VRTK supports the development of immersive VR experiences.
 
-### Development Tools
-The development environment includes:
-- Unity 2019.4.11f1
-- SteamVR SDK
-- VRTK (Virtual Reality Toolkit)
-- Visual Studio 2019
-- Blender (for 3D modeling)
-- RenderDoc (for graphic debugging)
-
 By leveraging these tools and technologies, this project aims to create a comprehensive and immersive VR system for university societies, enhancing the social interaction experience in a virtual environment.
