@@ -8,6 +8,25 @@ Video Link: https://drive.google.com/file/d/1de9_E7s38W3wW78QjCJET4J-jrLs3wpf/vi
 
 File Link: https://docs.google.com/document/d/1Ci4qybMZv_5GPIcMy-rJlQXRxdqsiQI1/edit?usp=sharing&ouid=101368138502748597974&rtpof=true&sd=true
 
+Project Description:
+
+A virtual club interaction platform for university clubs, featuring immersive VR experiences and realistic activity scenes. The project was nominated for the Outstanding Graduation Project award.
+
+- Designed and constructed 10 virtual activity scenes，used RenderDoc to extract specific area models from 3D maps and imported them into Unity for rendering
+
+- Developed interaction modules based on SteamVR and VRTK, enabling real-time rendering, controller interactions, and user navigation to optimise the immersive experience
+
+- Wrote C# scripts to implement interactive logic and social features, including scene transitions, real-time feedback, and multi-user participation
+
+- Configured and optimised HTC Vive hardware and Lighthouse tracking systems to ensure precise device tracking, system stability, and enhanced user immersion
+
+Relevant Skills: Unity, SteamVR, VRTK, HTC Vive
+
+
+
+
+## SetUp
+
 Build: Unity2019.4.11  
 
 Unity Editor->File->Build Settings->Add Open Scenes->Build->Run .exe
