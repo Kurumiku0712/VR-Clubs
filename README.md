@@ -2,7 +2,7 @@
 
 (This is a graduation project completed at South China University of Technology)
 
-## Environment and Tools
+## Project Overview
 
 Video Link: https://drive.google.com/file/d/1de9_E7s38W3wW78QjCJET4J-jrLs3wpf/view?usp=drive_link
 
